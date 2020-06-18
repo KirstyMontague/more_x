@@ -1,0 +1,4 @@
+
+cd ../argos3/
+
+argos3 -c experiments/more_x_playback.argos
